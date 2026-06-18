@@ -1,0 +1,18 @@
+export const PROGRESSIONS = [
+  { name: 'ii–V–I Major', chords: ['Dm7', 'G7', 'Cmaj7'], analysis: 'The foundation of jazz harmony.' },
+  { name: 'ii–V–i Minor', chords: ['Bm7b5', 'E7', 'Am7'], analysis: 'Minor-key cadence with a half-diminished ii.' },
+  { name: 'I–vi–ii–V in C', chords: ['Cmaj7', 'Am7', 'Dm7', 'G7'], analysis: 'Classic turnaround heard in countless standards.' },
+  { name: 'Jazz Blues in A', chords: ['A7', 'D7', 'A7', 'E7', 'D7', 'A7'], analysis: 'Twelve-bar blues using only open dominants.' },
+  { name: 'Rhythm flavor in G', chords: ['Gmaj7', 'Em7', 'Am7', 'D7'], analysis: 'Open-chord take on the rhythm-changes loop.' },
+  { name: 'Autumn Leaves (head)', chords: ['Am7', 'D7', 'Gmaj7', 'Cmaj7', 'Bm7b5', 'E7', 'Am7'], analysis: 'Cycling fourths into a minor cadence.' },
+  { name: 'Turnaround', chords: ['Cmaj7', 'A7', 'Dm7', 'G7'], analysis: 'Four-bar loop back to the top of the form.' },
+  { name: 'Minor vamp', chords: ['Em7', 'Am7', 'Em7', 'Bm7b5'], analysis: 'Moody, hypnotic loop. Great for soloing practice.' },
+  { name: 'ii–V–I in G', chords: ['Am7', 'D7', 'Gmaj7'], analysis: 'The cornerstone cadence, moved to the key of G.' },
+  { name: 'ii–V–I in D', chords: ['Em7', 'A7', 'Dmaj7'], analysis: 'Same essential move, now resolving to D major.' },
+  { name: 'Doo-wop (I–vi–IV–V)', chords: ['Cmaj7', 'Am7', 'Fmaj7', 'G7'], analysis: 'The 50s ballad loop with jazz 7th colors.' },
+  { name: 'Jazz Blues in G', chords: ['G7', 'C7', 'G7', 'D7', 'C7', 'G7'], analysis: 'Open-chord twelve-bar blues centered on G.' },
+  { name: 'vi–ii–V–I', chords: ['Am7', 'Dm7', 'G7', 'Cmaj7'], analysis: 'Smooth descending-fifths resolution into C.' },
+  { name: 'iii–VI–ii–V–I', chords: ['Em7', 'A7', 'Dm7', 'G7', 'Cmaj7'], analysis: 'Extended turnaround cycling fourths home.' },
+  { name: 'Bossa vamp', chords: ['Cmaj9', 'Dm7', 'Em7', 'Dm7'], analysis: 'Gentle modal sway with a major-9 color.' },
+  { name: 'Gospel turnaround', chords: ['Cmaj7', 'E7', 'Am7', 'D7', 'G7'], analysis: 'Secondary dominants give a churchy lift.' },
+];

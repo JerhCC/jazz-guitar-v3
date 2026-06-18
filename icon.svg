@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512" role="img" aria-label="Jazz Guitar Chords V3">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1f3d"/>
+      <stop offset="0.55" stop-color="#0d2a5c"/>
+      <stop offset="1" stop-color="#020814"/>
+    </linearGradient>
+    <linearGradient id="dot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="url(#bg)"/>
+
+  <circle cx="50" cy="10" r="2.8" fill="none" stroke="#ffffff" stroke-width="1.8"/>
+
+  <rect x="12" y="15" width="40" height="3.2" rx="1.6" fill="#ffffff"/>
+
+  <g stroke="#3b6fb5" stroke-width="1.5">
+    <line x1="14" y1="17" x2="14" y2="53"/>
+    <line x1="23.5" y1="17" x2="23.5" y2="53"/>
+    <line x1="33" y1="17" x2="33" y2="53"/>
+    <line x1="42.5" y1="17" x2="42.5" y2="53"/>
+    <line x1="52" y1="17" x2="52" y2="53"/>
+  </g>
+
+  <g stroke="#1e4480" stroke-width="1.5">
+    <line x1="14" y1="28" x2="52" y2="28"/>
+    <line x1="14" y1="39" x2="52" y2="39"/>
+    <line x1="14" y1="50" x2="52" y2="50"/>
+  </g>
+
+  <g fill="url(#dot)" stroke="#020814" stroke-width="1.1">
+    <circle cx="23.5" cy="23" r="4.6"/>
+    <circle cx="42.5" cy="34" r="4.6"/>
+    <circle cx="33" cy="44.5" r="4.6"/>
+  </g>
+</svg>
